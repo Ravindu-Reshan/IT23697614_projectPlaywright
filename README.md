@@ -41,7 +41,7 @@ python -m playwright install
 
 ## Running the Tests
 
-python IT23697614_test_automation.py --excel "IT23697614_Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
+ python IT23697614_test_automation.py --excel "IT23697614_projectPlaywright\IT23697614_Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
 
 ## Test Results
 - Total test cases: 50
